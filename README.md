@@ -1,4 +1,4 @@
-## Adafruit DC Stepper Motor HAT PCB
+## Adafruit DC Stepper Motor HAT and Bonnet PCB
 <a href="http://www.adafruit.com/products/2348"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
@@ -12,8 +12,9 @@ In fact, you can even stack multiple Motor HATs, up to 32 of them, for controlli
 
 Motors are controlled by TB6612 MOSFET drivers with 1.2A per channel current capability (you can draw up to 3A peak for approx 20ms at a time), a big improvement over L293D drivers and there are built-in flyback diodes as well.
 
-PCB files for the Adafruit DC Stepper Motor Hat. The format is EagleCAD schematic and board layout
+PCB files for the Adafruit DC Stepper Motor Hat and Bonnet. The format is EagleCAD schematic and board layout
 - https://www.adafruit.com/products/2348
+- https://www.adafruit.com/product/4280
 
 ### License
 
